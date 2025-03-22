@@ -1,4 +1,3 @@
-
 # Sentiment Analysis using RNN
 
 This project implements a sentiment analysis model using Recurrent Neural Networks (RNN), specifically LSTM or GRU, to classify text as positive or negative.
